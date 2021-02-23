@@ -2,7 +2,7 @@
 
 ✨Hi there! 👋 My name is Sthefania (she/her)!
 
-I'm a geek ![gandalf](https://github.com/anythingcodes/slack-emoji-for-techies/blob/gh-pages/emoji/nod-gandalf.gif) so I love games, series and movies  English is not my native language, feel free to correct me.
+I'm a geek <img src=https://github.com/anythingcodes/slack-emoji-for-techies/blob/gh-pages/emoji/nod-gandalf.gif width="30"> so I love games, series and movies  English is not my native language, feel free to correct me.
 
 I’m currently working on my GitHub Pages, visit to see more https://stheferrix.github.io/
 
