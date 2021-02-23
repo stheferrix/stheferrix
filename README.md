@@ -1,4 +1,4 @@
-![banner]()
+![banner](https://github.com/stheferrix/stheferrix/blob/main/pexels-travel-sourced.jpg)
 
 ✨Hi there! 👋 My name is Sthefania (she/her) and I am a DevOps Engineer. I hope I will help you and enjoy t
 
