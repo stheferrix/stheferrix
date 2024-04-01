@@ -1,6 +1,6 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZydXVwazBxN2dsMTJnNmJsejc5enZydGg3Zjc5cm9hNG0xa2dkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pj30mdklB3FaaoFoOv/giphy.gif" width="200" height="280">
+<h2> Hi, I'm Sthefania Ferri! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVtNXNzZTh5NWg5bXN5amhseWRsY3FmajIxN25kZmwzNm50bjhhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bQ810KMQMmovfb0EVo/giphy.gif" width="50"></h2>
 
-My name is Sthefania Ferri passioned about technologies and love solve problems. 
+... passioned about technologies and love solve problems. 
 
 Personal stuffs:
 
@@ -16,3 +16,4 @@ code
 tools
 
 If you want say hi [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sthefaniaferri/)
+
