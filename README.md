@@ -38,6 +38,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=stheferrix&count_private=true&show_icons=true)
+
+
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFycTczMmhzcjQ4ZnR5eHZ6djU4YzE2Mnd5OHJiaDJwcDFyOHJhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yfhQJaWL2UVrbC2VEV/giphy.gif" width="100" align="right"></h2>
 
 ### say Hello! 💬
