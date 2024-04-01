@@ -6,13 +6,13 @@
 
 Personal stuffs:
 
-🙇‍♀️ Pronouns: She/Her
-🇧🇷 I'm from Brazil!
-👩‍🎓 Graduated in Computer Science
-💻 I'm a DevOps/SRE Engineer
-💼 Currently working at Ci&t
-📌 Student of Linuxtips PICK (Containers and Kubernetes learning program)
-♀️ For more diversity in IT
+🙇‍♀️ Pronouns: She/Her \
+🇧🇷 I'm from Brazil! \
+👩‍🎓 Graduated in Computer Science \
+💻 I'm a DevOps/SRE Engineer \
+💼 Currently working at Ci&t \
+📌 Student of Linuxtips PICK (Containers and Kubernetes learning program) \
+♀️ For more diversity in IT \
 
 code 
 tools
