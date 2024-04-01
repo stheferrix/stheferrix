@@ -1,4 +1,4 @@
-<a href="url"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZydXVwazBxN2dsMTJnNmJsejc5enZydGg3Zjc5cm9hNG0xa2dkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pj30mdklB3FaaoFoOv/giphy.gif" align="left" height="200" width="200" ></a>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZydXVwazBxN2dsMTJnNmJsejc5enZydGg3Zjc5cm9hNG0xa2dkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pj30mdklB3FaaoFoOv/giphy.gif" width="150" height="280">
 
 My name is Sthefania Ferri passioned about technologies and love solve problems. 
 
