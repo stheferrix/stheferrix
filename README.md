@@ -2,6 +2,8 @@
 
 ... passioned about technologies and love solve problems 
 
+
+
 Personal stuffs:
 
 🙇‍♀️ Pronouns: She/Her \
