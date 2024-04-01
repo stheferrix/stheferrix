@@ -2,18 +2,20 @@
 
 ... passioned about technologies and love solve problems. 
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sthefaniaferri/)
+
 Personal stuffs:
 
-Pronouns: She/Her
-I'm from Brazil!
-Graduated in Computer Science
-I'm a DevOps/SRE Engineer
-Currently working at Ci&t
-Student of Linuxtips PICK (Containers and Kubernetes learning program)
-For more diversity in IT
+🙇‍♀️ Pronouns: She/Her
+🇧🇷 I'm from Brazil!
+👩‍🎓 Graduated in Computer Science
+💻 I'm a DevOps/SRE Engineer
+💼 Currently working at Ci&t
+📌 Student of Linuxtips PICK (Containers and Kubernetes learning program)
+♀️ For more diversity in IT
 
 code 
 tools
 
-If you want say hi [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sthefaniaferri/)
+
 
