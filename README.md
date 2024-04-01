@@ -15,9 +15,10 @@ Personal stuffs:
 💻 I'm a DevOps/SRE Engineer \
 💼 Currently working at Ci&t \
 📌 Student of Linuxtips PICK (Containers and Kubernetes learning program) \
-♀️ For more diversity in IT 
+♀️ For more diversity in IT
 
-## ⚡ Technologies
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFycTczMmhzcjQ4ZnR5eHZ6djU4YzE2Mnd5OHJiaDJwcDFyOHJhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yfhQJaWL2UVrbC2VEV/giphy.gif" width="100" align="right"></h2>
+
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -48,6 +49,4 @@ Personal stuffs:
 
 
 
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFycTczMmhzcjQ4ZnR5eHZ6djU4YzE2Mnd5OHJiaDJwcDFyOHJhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yfhQJaWL2UVrbC2VEV/giphy.gif" width="100" align="right"></h2>
 
