@@ -10,7 +10,7 @@
 Personal stuffs:
 
 🙇‍♀️ Pronouns: She/Her \
-🇧🇷  I'm from Brazil \
+🇧🇷   I'm from Brazil \
 🏁 Graduated in Computer Science \
 👩‍💻 I'm a DevOps/SRE Engineer \
 💼 Currently working at Ci&t \
