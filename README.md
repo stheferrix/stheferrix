@@ -12,7 +12,7 @@ Personal stuffs:
 💻 I'm a DevOps/SRE Engineer \
 💼 Currently working at Ci&t \
 📌 Student of Linuxtips PICK (Containers and Kubernetes learning program) \
-♀️ For more diversity in IT \
+♀️ For more diversity in IT
 
 code 
 tools
