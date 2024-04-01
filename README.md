@@ -10,12 +10,12 @@
 Personal stuffs:
 
 🙇‍♀️ Pronouns: She/Her \
-🇧🇷   I'm from Brazil \
+🇧🇷  I'm from Brazil \
 🏁 Graduated in Computer Science \
 👩‍💻 I'm a DevOps/SRE Engineer \
 💼 Currently working at Ci&t \
 🌱 Learning always about Cloud, IaC, Containers and K8S \
-♀️ For more diversity in IT
+♀️  For more diversity in IT
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFycTczMmhzcjQ4ZnR5eHZ6djU4YzE2Mnd5OHJiaDJwcDFyOHJhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yfhQJaWL2UVrbC2VEV/giphy.gif" width="100" align="right"></h2>
 
